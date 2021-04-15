@@ -5,8 +5,8 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
+  <React.StrictMode> 
+    <App login='derrickmstrong'/>
   </React.StrictMode>,
   document.getElementById('root')
 );
